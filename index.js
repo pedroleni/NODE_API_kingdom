@@ -2,10 +2,10 @@
 const express = require('express');
 const cors = require('cors');
 // Routes
-const ConsolaRoutes = require('./scr/api/consolas/consola.routes');
-const DesarrolladoraRoutes = require('./scr/api/desarrolladora/desarrolladora.routes');
-const juegoRoutes = require('./scr/api/juegos/juego.routes');
-const PersonajeRoutes = require('./scr/api/personajes/personaje.routes');
+const ConsolaRoutes = require('./src/api/consolas/consola.routes.js');
+const DesarrolladoraRoutes = require('./src/api/desarrolladora/desarrolladora.routes.js');
+const juegoRoutes = require('./src/api/juegos/juego.routes.js');
+const PersonajeRoutes = require('./src/api/personajes/personaje.routes.js');
 
 // DB
 const { connectDb } = require('./src/helpers/db');
