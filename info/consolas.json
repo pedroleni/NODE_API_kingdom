@@ -1,0 +1,104 @@
+[
+{
+    "name": "XBOX 360",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xbox-360-Consoles-Infobox.png/300px-Xbox-360-Consoles-Infobox.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/X_Box_360_logo.svg/375px-X_Box_360_logo.svg.png",
+    "fecha": 2005,
+    "ventas": 84000000,
+    "creador": "Microsoft",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "XBOX Series X",
+    "imagen": "https://pngimg.com/uploads/xbox/xbox_PNG101377.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Xbox_Series_X_S_black.svg/263px-Xbox_Series_X_S_black.svg.png",
+    "fecha": 2020,
+    "ventas": 15000000,
+    "creador": "Project Scarlett ",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "PlayStation 5",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png/250px-PlayStation_5_and_DualSense_with_transparent_background.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PlayStation_5_logo_and_wordmark.svg/375px-PlayStation_5_logo_and_wordmark.svg.png",
+    "fecha": 2020,
+    "ventas": 20000000,
+    "creador": "Mark Cerny, SONY",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "PlayStation 4",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PlayStation4modelos.png/375px-PlayStation4modelos.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PlayStation_4_logo_and_wordmark.svg/375px-PlayStation_4_logo_and_wordmark.svg.png",
+    "fecha": 2013,
+    "ventas": 116000000,
+    "creador": "Mark Cerny,SONY",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "PlayStation 3",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PS3versniones.png/800px-PS3versniones.png?20220528171350",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PlayStation_3_logo_%282009%29.svg/375px-PlayStation_3_logo_%282009%29.svg.png", 
+    "fecha": 2006,
+    "ventas": 87400000,
+    "creador": "Ken Kutaragi, SONY",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "PlayStation 2",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PS2_png.png/375px-PS2_png.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PlayStation_2_logo.svg/375px-PlayStation_2_logo.svg.png",
+    "fecha": 2004,
+    "ventas": 155000000,
+    "creador": "Ken Kutaragi, SONY",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "PlayStation",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/375px-PSX-Console-wController.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/150px-Playstation_logo_colour.svg.png",
+    "fecha": 2004,
+    "ventas": 102400000,
+    "creador": "Ken Kutaragi, SONY",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "Nintendo DS",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nintendo-DS-Fat-Blue.png/375px-Nintendo-DS-Fat-Blue.png",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nintendo_DS_Logo.svg/375px-Nintendo_DS_Logo.svg.png",
+    "fecha": 2004,
+    "ventas": 154000000,
+    "creador": "Satoru Iwata, Nintendo",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+{
+    "name": "Nintendo Switch",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nintendo-Switch-wJoyCons-BlRd-Standing-FL.png/330px-Nintendo-Switch-wJoyCons-BlRd-Standing-FL.png",
+    "logo":"https://logos-marcas.com/wp-content/uploads/2021/09/Nintendo-Switch-Simbolo.png",
+    "fecha": 2017,
+    "ventas": 108000000,
+    "creador": "Shigeru Miyamoto, Nintendo",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+},
+
+{
+    "name": "PC GAMING",
+    "imagen": "https://www.pngmart.com/files/4/Gaming-Computer-Transparent-PNG.png",
+    "logo":"https://w7.pngwing.com/pngs/546/937/png-transparent-the-escapists-laptop-electronic-entertainment-expo-video-game-pc-gamer-gamer-game-electronics-text.png",
+    "fecha": 1993,
+    "ventas": 2897000400000,
+    "creador": "H. Edward Roberts",
+    "juegos": ["ID DE LOS JUEGOS QUE TIENE LA PLATAFORMA"]
+
+}
+
+]

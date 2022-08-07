@@ -1,0 +1,82 @@
+[
+    {
+        "id":"62ef28aab2e31ac49642f3cc",
+        "name": "Kingdom Hearts",
+        "imagen": "https://i.3djuegos.com/juegos/1430/kingdom_hearts_ii/fotos/ficha/kingdom_hearts_ii-1681014.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/4/43/1jindom_hear.png",
+        "fecha": 2002,
+        "consolas": ["62ef2420b2e31ac49641da2f", "62ef2420b2e31ac49641da2e", "62ef2420b2e31ac49641da2d", "62ef2420b2e31ac49641da2c", "62ef2420b2e31ac49641da2b"],
+        "personajes": ["62ef2340b2e31ac49641a10b","62ef2340b2e31ac49641a102" , "62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a105", "62ef2340b2e31ac49641a106","62ef2340b2e31ac49641a107", "62ef2340b2e31ac49641a109","62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10c", "62ef2340b2e31ac49641a10d", "62ef2340b2e31ac49641a10e", "62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3cd",
+        "name": "Kingdom Hearts II Final Mix",
+        "imagen": "https://i.3djuegos.com/juegos/1430/kingdom_hearts_ii/fotos/ficha/kingdom_hearts_ii-1681014.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kingdom_hearts_2.png/800px-Kingdom_hearts_2.png?20220806233915",
+        "consolas": ["62ef2420b2e31ac49641da2f", "62ef2420b2e31ac49641da2e", "62ef2420b2e31ac49641da2d", "62ef2420b2e31ac49641da2c", "62ef2420b2e31ac49641da2b"],
+        "personajes": ["62ef2340b2e31ac49641a10b", "62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a105", "62ef2340b2e31ac49641a106", "62ef28aab2e31ac49642f3cc", "62ef2340b2e31ac49641a109","62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10c","62ef2340b2e31ac49641a10d", "62ef2340b2e31ac49641a10e", "62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3ce",
+        "name": "Kingdom Hearts III",
+        "imagen": "https://m.media-amazon.com/images/I/816W9H81wuL._AC_SX385_.jpg",
+        "logo":"https://www.kingdomhearts.com/img/game_logos/kingdom-hearts-3-logo.png",
+        "fecha": 2019,
+        "consolas": ["62ef2420b2e31ac49641da2f", "62ef2420b2e31ac49641da2e", "62ef2420b2e31ac49641da2d", "62ef2420b2e31ac49641da2c", "62ef2420b2e31ac49641da2b"],
+        "personajes": ["62ef2340b2e31ac49641a10b","62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a103" ,"62ef2340b2e31ac49641a105","62ef2340b2e31ac49641a106", "62ef2340b2e31ac49641a109","62ef2340b2e31ac49641a10a","62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+
+    {
+        "id":"62ef28aab2e31ac49642f3cf",
+        "name": "Kingdom Hearts Melody of Memory",
+        "imagen": "https://images.pcgamingwiki.com/0/07/Kingdom_Hearts_Melody_of_Memory_cover.webp",
+        "logo":"https://www.kingdomhearts.com/melody-of-memory/images/logo.png",
+        "fecha": 2020,
+        "consolas": ["62ef2420b2e31ac49641da2d", "62ef2420b2e31ac49641da2b", "62ef2420b2e31ac49641da32"],
+        "personajes": ["62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a106"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3d0",
+        "name": "Kingdom Hearts Dream Drop Distance HD",
+        "imagen": "https://static-cdn.jtvnw.net/ttv-boxart/Kingdom%20Hearts%203D:%20Dream%20Drop%20Distance.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Kingdom_Hearts_Dream_Drop_Distance_HD_logo.webp",
+        "fecha": 2017,
+        "consolas": ["62ef2420b2e31ac49641da2d", "62ef2420b2e31ac49641da31"],
+        "personajes": ["62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a109","62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3d1",
+        "name": "Kingdom Hearts χ [chi]",
+        "imagen": "https://pics.filmaffinity.com/kingdom_hearts_back_cover-871143245-large.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Kingdom_Hearts_Union.webp",
+        "fecha": 2013,
+        "consolas": ["62ef2420b2e31ac49641da33"],
+        "personajes": ["62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a108", "62ef2340b2e31ac49641a104", "62ef2340b2e31ac49641a109","62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10e"],
+        "desarrolladora": ["I62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3d2",
+        "name": "Kingdom Hearts 358/2 Days",
+        "imagen": "https://i.3djuegos.com/juegos/2543/kingdom_hearts_358_2_days/fotos/ficha/kingdom_hearts_358_2_days-1693540.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/9/95/Kingdom_Hearts_358-2_Days_Logo_KHD.webp",
+        "fecha": 2009,
+        "consolas": ["62ef2420b2e31ac49641da31"],
+        "personajes": ["62ef2340b2e31ac49641a10b", "62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a106", "62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10d" , "62ef2340b2e31ac49641a10e", "62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    },
+    {
+        "id":"62ef28aab2e31ac49642f3d3",
+        "name": "Kingdom Hearts Re:coded",
+        "imagen": "https://pbs.twimg.com/media/DiU1jiuW0AAy9UT.jpg:large",
+        "logo":"https://www.seekpng.com/png/full/28-284391_kingdom-hearts-re-coded-logo.png",
+        "fecha": 2010,
+        "consolas": ["62ef2420b2e31ac49641da31"],
+        "personajes": ["62ef2340b2e31ac49641a10b", "62ef2340b2e31ac49641a102", "62ef2340b2e31ac49641a103", "62ef2340b2e31ac49641a106", "62ef2340b2e31ac49641a109", "62ef2340b2e31ac49641a10a", "62ef2340b2e31ac49641a10f"],
+        "desarrolladora": ["62ef22edb2e31ac496418db7"]
+    }  
+]

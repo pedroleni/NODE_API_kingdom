@@ -1,0 +1,14 @@
+[
+
+    {
+        "name": "Square Enix",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Square_Enix_HQ_%28Shinjuku_Eastside_Square%29.jpg/368px-Square_Enix_HQ_%28Shinjuku_Eastside_Square%29.jpg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Square_Enix_logo.svg/368px-Square_Enix_logo.svg.png",
+        "creacion": 1975,
+        "empleados": 1924,
+        "franquicias": ["Saga Final Fantasy", "Life Is Strange", "NieR: Automata", "Hitman: Absolution"],
+        "juegos":["ID DE LOS JUEGOS"]
+    }
+    
+
+]

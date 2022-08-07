@@ -1,0 +1,124 @@
+[{
+    "name": "Sora",
+    "imagen": "https://www.pngmart.com/files/12/Kingdom-Hearts-Sora-PNG-Picture.png",
+    "origen": "Kingdom Hearts",
+    "papel": "Protagonista Portador de la Llave Espada",
+    "juego": ["1", "2", "3", "recode", "melody", "dream drop ", "358/2 Days"]
+},
+{
+    "name": "Rey Michey",
+    "imagen": "https://pbs.twimg.com/media/DVqSXxTWkAAl6Y9.png",
+    "origen": "Plane Crazy (1928)",
+    "papel": "Aliado, Maestro de la Llave Espada",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Cloud Strife",
+    "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceca9bb7-d2c7-45f3-8f79-b8dd137839d2/ddx9qrs-7970476e-d21e-40f6-8f6a-1c80ab7829fc.png/v1/fill/w_704,h_1060,strp/cloud_final_fantasy_vii_remake_render_png_by_sispros_ddx9qrs-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2MCIsInBhdGgiOiJcL2ZcL2NlY2E5YmI3LWQyYzctNDVmMy04Zjc5LWI4ZGQxMzc4MzlkMlwvZGR4OXFycy03OTcwNDc2ZS1kMjFlLTQwZjYtOGY2YS0xYzgwYWI3ODI5ZmMucG5nIiwid2lkdGgiOiI8PTcwNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NVE3zMrfaXLdnQ9ec5OXeFzm8cOLNwIsIY7l5X9lIlk",
+    "origen": "Final Fantasy VII",
+    "papel": "Aliado",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Sephiroth",
+    "imagen": "https://images.wikidexcdn.net/mwuploads/esssbwiki/a/a8/latest/20201218041942/Sefirot_FFVIIR.png",
+    "origen": "Final Fantasy VII",
+    "papel": "Antagonista",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Riku",
+    "imagen": "https://www.pngmart.com/files/12/Kingdom-Hearts-Riku-Transparent-PNG.png",
+    "origen": "Kingdom Hearts",
+    "papel": "Aliado Maestro de la Llave Espada",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Ansem",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ansem_Render_KH3.webp",
+    "origen": "Kingdom Hearts",
+    "papel": "Antagonista",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Augur Ava",
+    "imagen": "https://pbs.twimg.com/media/Dx1h6MHX0AAT7GP.png",
+    "origen": "Albaburgo",
+    "papel": "Maestra de la Llave Espada",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Kairi",
+    "imagen": "https://www.pngmart.com/files/12/Kingdom-Hearts-Kairi-Download-PNG-Image.png",
+    "origen": "Kingdom Hearts",
+    "papel": "Aliada Princesa del Corazón Portadora de la Llave Espada",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Pato Donald",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Donald_KH2HD.webp",
+    "origen": "La Gallinita Sabia",
+    "papel": "Aliado",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Goofy",
+    "imagen": "https://www.khdatabase.com/images/9/94/Goofy_MOM.png",
+    "origen": "Mickey's Revue",
+    "papel": "Aliado",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Stitch",
+    "imagen": "http://imagenesparapeques.com/wp-content/uploads/2019/12/Lilo-y-Stitch-clipart-2.png",
+    "origen": "Lilo & Stitch",
+    "papel": "Aliado Invocación Miembro del grupo",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Pluto",
+    "imagen": "https://images.khinsider.com/KINGDOM%20HEARTS%20X/Medals/691.png",
+    "origen": "Castillo Disney",
+    "papel": "Aliado, mascota Rey Michey",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Reina de Corazones ",
+    "imagen": "https://1.bp.blogspot.com/-h3aHVSaLH7k/X0ZeqxzJDGI/AAAAAAAAY9c/wljFTqfvfaM0wxzYlyojkVdmJIoZN4a0gCLcBGAsYHQ/s1600/Cp-queen_of_hearts.png",
+    "origen": "País de las Maravillas",
+    "papel": "Reina de el País de las Maravillas",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "Organización XIII",
+    "imagen": "https://www.pngmart.com/files/12/Kingdom-Hearts-Organization-XIII-PNG-Transparent-Picture.png",
+    "origen": "Kingdom Hearts",
+    "papel": "Antagonistas",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "",
+    "imagen": "",
+    "origen": "",
+    "papel": "",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "",
+    "imagen": "",
+    "origen": "",
+    "papel": "",
+    "juego": ["ID DE LOS JUEGOS"]
+},
+{
+    "name": "",
+    "imagen": "",
+    "origen": "",
+    "papel": "",
+    "juego": ["ID DE LOS JUEGOS"]
+}
+
+
+
+
+]
