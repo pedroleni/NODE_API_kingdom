@@ -7,6 +7,7 @@ const schema = new Schema({
   logo: { type: String, unique: true, required: true },
   creacion: { type: Number, unique: true, required: true },
   empleados: { type: Number },
+  ceo: { type: String, unique: true, required: true },
   franquicias: [{ type: String }],
   juegos:[{ type: Schema.Types.ObjectId, ref: "juegos" }]
 },
